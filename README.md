@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm maram sahnoun</h1>
 
 <div align="center">
-  <img src="[https://your-image-url.com/banner.png](https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png)" alt="Banner" />
+  <img src="https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" alt="Banner" />
 </div>
 
 <h3 align="center">A passionate software developer from Tunisia, eager to build impactful and innovative solutions.</h3>
